@@ -1,24 +1,4 @@
-/**********************************************************************
- *  Pattern Recognition readme.txt template
- **********************************************************************/
-
-Name: Smári Arnfjörð Brynjarsson             
-Login: smarib20               
-Kt: 010700221
-
-Partner name: Axel Ingi Elíasson      
-Partner login: axele    
-Partner kt: 2207012980
-
-Partner name:     
-Partner login:    
-Partner kt:
-
-Group number: S2-35
-
-Username of the student submitting to Mooshak: smarib20
-
-Hours to complete assignment (optional):
+/* The code will not run without point.java and that code is kept private since it was not made by me.  */
 
 
 

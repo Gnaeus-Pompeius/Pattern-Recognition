@@ -1,4 +1,8 @@
-/* The code will not run without point.java and that code is kept private since it was not made by me.  */
+/* Brute.java examines 4 points at a time and checks whether they all lie on the same line
+segment, printing out any such line segments to standard output. To check whether the 4 points p, q, r, and s
+are collinear, check whether the slopes between p and q, between p and r, and between p and s are all equal.
+The order of growth of the running time of your program should be O(N 4) in the worst case and it should
+use space proportional to N.*/
 
 
 
